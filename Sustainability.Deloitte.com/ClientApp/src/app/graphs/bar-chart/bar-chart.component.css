@@ -1,0 +1,68 @@
+.dot {
+  height: 14px;
+  width: 14px;
+  border-radius: 100px;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.legend {
+  display: flex;
+  gap: 25px;
+  margin-left: 40px;
+  padding-top: 15px;
+}
+.cumulative-container {
+  border-left: 15px solid lightgrey;
+  border-right: 15px solid lightgrey;
+  width: 100%;
+}
+.text-description {
+  background: green;
+  color: white;
+  /* width: 250px; */
+  /* display: contents; */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding-left: 120px;
+  padding-right: 120px;
+}
+
+.value-font {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.content-font {
+  font-size: 12px;
+}
+
+.airplane-image {
+  width: 150px;
+  height: 150px;
+}
+.image-container {
+  display: flex;
+  /* padding-left: 70px;
+  padding-right: 80px; */
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+}
+.value-color {
+  color: #0047ab;
+  font-size: 20px;
+}
+
+.chart-styles {
+  display: flex;
+  gap: 20px;
+}
+
+.low-color {
+  background: #228b22;
+}
+.high-color {
+  background: red;
+}

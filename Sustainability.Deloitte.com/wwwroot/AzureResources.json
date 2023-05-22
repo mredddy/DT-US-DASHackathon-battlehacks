@@ -1,0 +1,381 @@
+[
+  {
+    "region": "eastus",
+    "service": "Storage Account",
+    "tier": "premium",
+    "carbonemission": 20
+  },
+  {
+    "region": "westus",
+    "service": "Storage Account",
+    "tier": "premium",
+    "carbonemission": 20
+  },
+  {
+    "region": "eastus",
+    "service": "Storage Account",
+    "tier": "Standard",
+    "carbonemission": 10
+  },
+  {
+    "region": "westus",
+    "service": "Storage Account",
+    "tier": "Standard",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "Storage Account",
+    "tier": "Hot",
+    "carbonemission": 15
+  },
+  {
+    "region": "westus2",
+    "service": "VirtualMachines",
+    "tier": "Standard_DS1_v2",
+    "carbonemission": 10
+  },
+  {
+    "region": "westus2",
+    "service": "VirtualMachines",
+    "tier": "Standard_D2s_v3",
+    "carbonemission": 8
+  },
+  {
+    "region": "eastus",
+    "service": "VirtualMachines",
+    "tier": "basic",
+    "carbonemission": 10
+  },
+  {
+    "region": "westus",
+    "service": "VirtualMachines",
+    "tier": "basic",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "AppService Plan",
+    "tier": "Free",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "AppService Plan",
+    "tier": "Free",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "Function App",
+    "tier": "consumption",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "Function App",
+    "tier": "Dynamic",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "Function App",
+    "tier": "premium",
+    "carbonemission": 12
+  },
+  {
+    "region": "westus",
+    "service": "Function App",
+    "tier": "premium",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "AppService Plan",
+    "tier": "shared",
+    "carbonemission": 5
+  },
+  {
+    "region": "eastus",
+    "service": "AppService Plan",
+    "tier": "shared",
+    "carbonemission": 5
+  },
+  {
+    "region": "eastus",
+    "service": "AppService Plan",
+    "tier": "basic",
+    "carbonemission": 5
+  },
+  {
+    "region": "eastus",
+    "service": "AppService Plan",
+    "tier": "standard",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "AppService Plan",
+    "tier": "premium",
+    "carbonemission": 20
+  },
+  {
+    "region": "westus",
+    "service": "AppService Plan",
+    "tier": "shared",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "AppService Plan",
+    "tier": "shared",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "AppService Plan",
+    "tier": "basic",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "AppService Plan",
+    "tier": "standard",
+    "carbonemission": 10
+  },
+  {
+    "region": "westus",
+    "service": "AppService Plan",
+    "tier": "premium",
+    "carbonemission": 20
+  },
+  {
+    "region": "eastus",
+    "service": "SQL Server",
+    "tier": "business",
+    "carbonemission": 25
+  },
+  {
+    "region": "westus",
+    "service": "SQL Server",
+    "tier": "business",
+    "carbonemission": 20
+  },
+  {
+    "region": "eastus",
+    "service": "SQL Server",
+    "tier": "hyperscale",
+    "carbonemission": 20
+  },
+  {
+    "region": "westus",
+    "service": "SQL Server",
+    "tier": "hyperscale",
+    "carbonemission": 20
+  },
+  {
+    "region": "westus",
+    "service": "SQL Server",
+    "tier": "general",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "SQL Server",
+    "tier": "",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "Databases",
+    "tier": "System",
+    "carbonemission": 10
+  },
+  {
+    "region": "westus",
+    "service": "DataFactory",
+    "tier": "data pipeline",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "Virtual Networks",
+    "tier": "standard",
+    "carbonemission": 10
+  },
+  {
+    "region": "westus2",
+    "service": "Virtual Networks",
+    "tier": "",
+    "carbonemission": 10
+  },
+  {
+    "region": "westus",
+    "service": "Virtual Networks",
+    "tier": "standard",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "App Insights",
+    "tier": "developer",
+    "carbonemission": 5
+  },
+  {
+    "region": "eastus",
+    "service": "App Insights",
+    "tier": "standard",
+    "carbonemission": 7
+  },
+  {
+    "region": "eastus",
+    "service": "App Insights",
+    "tier": "professional",
+    "carbonemission": 12
+  },
+  {
+    "region": "westus",
+    "service": "App Insights",
+    "tier": "developer",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "App Insights",
+    "tier": "standard",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "App Insights",
+    "tier": "professional",
+    "carbonemission": 10
+  },
+  {
+    "region": "eastus",
+    "service": "Disks",
+    "tier": "ultra",
+    "carbonemission": 7
+  },
+  {
+    "region": "eastus",
+    "service": "Disks",
+    "tier": "premium",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "Disks",
+    "tier": "ultra",
+    "carbonemission": 7
+  },
+  {
+    "region": "westus",
+    "service": "Disks",
+    "tier": "premium",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "Disks",
+    "tier": "standard",
+    "carbonemission": 5
+  },
+  {
+    "region": "eastus",
+    "service": "Disks",
+    "tier": "standard",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus2",
+    "service": "Disks",
+    "tier": "Standard",
+    "carbonemission": 15
+  },
+  {
+    "region": "eastus",
+    "service": "public IPAddress",
+    "tier": "basic",
+    "carbonemission": 5
+  },
+  {
+    "region": "eastus",
+    "service": "public IPAddress",
+    "tier": "basic(Classic)",
+    "carbonemission": 5
+  },
+  {
+    "region": "eastus",
+    "service": "public IPAddress",
+    "tier": "global",
+    "carbonemission": 7
+  },
+  {
+    "region": "eastus",
+    "service": "public IPAddress",
+    "tier": "standard",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "public IPAddress",
+    "tier": "basic",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "public IPAddress",
+    "tier": "basic(Classic)",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "public IPAddress",
+    "tier": "global",
+    "carbonemission": 7
+  },
+  {
+    "region": "westus",
+    "service": "public IPAddress",
+    "tier": "standard",
+    "carbonemission": 5
+  },
+  {
+    "region": "westus",
+    "service": "DataFactory",
+    "tier": "",
+    "carbonemission": 15
+  },
+  {
+    "region": "eastus",
+    "service": "DataFactory",
+    "tier": "",
+    "carbonemission": 20
+  },
+  {
+    "region": "global",
+    "service": "System Topics",
+    "tier": "",
+    "carbonemission": 12
+  },
+  {
+    "region": "westus2",
+    "service": "Network Security Groups",
+    "tier": "",
+    "carbonemission": 15
+  },
+  {
+    "region": "westus2",
+    "service": "Network Interfaces",
+    "tier": "",
+    "carbonemission": 5
+  },
+  {
+    "region": "eastus",
+    "service": "Automation Accounts",
+    "tier": "",
+    "carbonemission": 7
+  }
+]
+
